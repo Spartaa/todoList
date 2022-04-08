@@ -24,7 +24,7 @@
         </button>
         <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
             <div class="navbar-nav">
-                <a class="nav-item nav-link" style="cursor: pointer"  href="{{ url('/tasks') }}">Tasks</a>
+                <a class="nav-item nav-link" style="cursor: pointer"  href="{{ url('/') }}">Tasks</a>
                 <a class="nav-item nav-link" href="{{ url('/create-task') }}">Add Task</a>
             </div>
         </div>
